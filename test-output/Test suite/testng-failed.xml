@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Test suite]">
+  <parameter name="browser" value="chrome"/>
+  <test name="Login newtours(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="testsuite.Login">
+        <methods>
+          <include name="logintest"/>
+        </methods>
+      </class> <!-- testsuite.Login -->
+    </classes>
+  </test> <!-- Login newtours(failed) -->
+  <test name="Links chrome(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="testsuite.Links">
+        <methods>
+          <include name="Linkstestin"/>
+        </methods>
+      </class> <!-- testsuite.Links -->
+    </classes>
+  </test> <!-- Links chrome(failed) -->
+</suite> <!-- Failed suite [Test suite] -->

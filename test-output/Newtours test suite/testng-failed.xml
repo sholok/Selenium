@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Newtours test suite]">
+  <parameter name="browser" value="chrome"/>
+  <test name="Login on newtours(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="Grid.Grid1">
+        <methods>
+          <include name="logintest"/>
+          <include name="setup"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- Grid.Grid1 -->
+    </classes>
+  </test> <!-- Login on newtours(failed) -->
+  <test name="Login1 on newtours(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="Grid.Grid1">
+        <methods>
+          <include name="logintest"/>
+          <include name="setup"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- Grid.Grid1 -->
+    </classes>
+  </test> <!-- Login1 on newtours(failed) -->
+</suite> <!-- Failed suite [Newtours test suite] -->

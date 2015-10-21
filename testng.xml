@@ -1,0 +1,15 @@
+<suite name="Test suite">
+   <test name="Login newtours">
+   <parameter name="browser" value="firefox"/>
+     <classes>
+        <class name="testsuite.Login" />
+      </classes>
+   </test>
+
+  <test name="Links chrome">
+  <parameter name="browser" value="chrome"/>
+    <classes>
+        <class name="testsuite.Links" />
+    </classes>
+  </test>
+</suite>

@@ -1,0 +1,14 @@
+<suite name="Newtours test suite" >
+  <test name="Login on newtours" >
+   <parameter name="browser" value="firefox" />
+    <classes>
+       <class name="Grid.Grid1" />
+    </classes>
+  </test>
+<test name="Login1 on newtours" >
+   <parameter name="browser" value="chrome" />
+    <classes>
+       <class name="Grid.Grid1" />
+    </classes>
+  </test>
+</suite>

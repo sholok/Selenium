@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Shobha/Downloads/selenium-server-standalone-2.47.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shobha/Downloads/dom4j-1.5.jar/dom4j-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shobha/Downloads/jxl-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shobha/Downloads/mysql-connector-java-5.1.26-bin(1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shobha/Downloads/poi-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shobha/Downloads/poi-examples-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shobha/Downloads/poi-ooxml-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shobha/Downloads/poi-ooxml-schemas-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shobha/Downloads/poi-scratchpad-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shobha/Downloads/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shobha/Downloads/SaxonLiaison.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shobha/Downloads/testng-xslt-maven-plugin-test-0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shobha/Downloads/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shobha/Downloads/log4j-1.2.15.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,20 @@
+2015-10-20 10:12:22,815 INFO  [Log4j] Browser launched 
+2015-10-20 10:12:23,444 INFO  [Log4j] Navigate to gmail 
+2015-10-20 10:14:09,495 INFO  [Log4j] Browser launched 
+2015-10-20 10:14:10,505 INFO  [Log4j] Navigate to gmail 
+2015-10-20 10:14:14,962 INFO  [Log4j] Enterred username 
+2015-10-20 10:14:15,463 INFO  [Log4j] clicked on next button 
+2015-10-20 10:14:27,945 INFO  [Log4j] Browser launched 
+2015-10-20 10:14:29,386 INFO  [Log4j] Navigate to gmail 
+2015-10-20 10:14:33,111 INFO  [Log4j] Enterred username 
+2015-10-20 10:14:33,533 INFO  [Log4j] clicked on next button 
+2015-10-20 10:16:14,740 INFO  [Log4j] Browser launched 
+2015-10-20 10:16:15,819 INFO  [Log4j] Navigate to gmail 
+2015-10-20 10:16:20,116 INFO  [Log4j] Enterred username 
+2015-10-20 10:16:20,656 INFO  [Log4j] clicked on next button 
+2015-10-20 10:16:21,657 INFO  [Log4j] Enetered the password 
+2015-10-20 10:16:24,064 INFO  [Log4j] Clicked the sign in 
+2015-10-20 10:16:33,252 INFO  [Log4j] Browser launched 
+2015-10-20 10:16:34,039 INFO  [Log4j] Navigate to gmail 
+2015-10-20 10:16:37,857 INFO  [Log4j] Enterred username 
+2015-10-20 10:16:38,287 INFO  [Log4j] clicked on next button 
